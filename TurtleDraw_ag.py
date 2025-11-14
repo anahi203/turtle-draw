@@ -84,13 +84,13 @@ anahiturtleDraw.color('blue')
 anahiturtleDraw.write(f'Total Distance Marked: {grand_total:.2f}', align='left', font=('Arial', 10, 'normal'))
 anahiturtleDraw.penup()
 
-#Todo: Print the total near the bottom.
+
 # print('\nTotal distance traveled:', total_distance)
 
 turtle.done()
 turtleDrawTextfile.close()
 
-# Todo: Wait for the user to press the enter key before closing.
+
 
 print('\nEnd')
 
